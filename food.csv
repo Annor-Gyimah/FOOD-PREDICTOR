@@ -1,0 +1,7 @@
+Time,Food,Morning,Afternoon,Evening,Nutritional Value,Weight Gain
+Morning,Salad,1,1,1,100,0.1
+Afternoon,Pizza,0,1,1,500,0.5
+Evening,Soup,1,1,0,200,0.2
+Morning,Burger,1,0,1,400,0.4
+Afternoon,Sandwich,0,0,1,200,0.5
+Evening,Pasta,1,0,1,120,0.5
